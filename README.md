@@ -2,11 +2,12 @@
   <img src="https://handi360.fr/wp-content/uploads/2025/09/cropped-logo_size_invert_lwsoptimized.webp" alt="Logo Handi360, assistant gratuit sur les aides et droits liés au handicap" width="160">
 </p>
 
-<h1 align="center">Handi360 Bot : l'assistant gratuit sur les aides et droits liés au handicap</h1>
+<h1 align="center">Handi360 Bot : l'assistant gratuit pour s'informer sur les aides handicap et pour discuter</h1>
 
 <p align="center">
   <b>AAH, PCH, MDPH, carte mobilité inclusion, RQTH, AEEH, aidants...</b><br>
-  Posez vos questions sur Telegram, recevez une réponse claire, vérifiée sur les sites officiels, avec les sources.
+  Posez vos questions sur Telegram, recevez une réponse claire, vérifiée sur les sites officiels.<br>
+  Et quand vous avez simplement besoin de parler, il est là pour vous écouter, à toute heure.
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@
 
 ## ♿ Qu'est-ce que Handi360 Bot ?
 
-**Handi360 Bot** ([@Handi360Bot](https://t.me/Handi360Bot?start=src_github)) est un **assistant gratuit sur Telegram, en français**, spécialisé dans **les aides et les droits des personnes en situation de handicap en France**, de leurs proches et des **aidants**.
+**Handi360 Bot** ([@Handi360Bot](https://t.me/Handi360Bot?start=src_github)) est un **assistant gratuit sur Telegram, en français**, avec deux missions : **informer sur les aides et les droits** des personnes en situation de handicap en France, de leurs proches et des **aidants**, et **offrir une oreille attentive** à celles et ceux qui ont besoin de **discuter**.
 
 Les démarches liées au handicap sont souvent un vrai parcours du combattant : quelle aide demander, à quel organisme, avec quel formulaire, sous quelles conditions ? Handi360 Bot répond en quelques secondes, simplement, et **vérifie chaque réponse sur les sites officiels** (service-public.fr, CAF, MDPH, Mon parcours handicap, Ameli, Agefiph, Légifrance) avant de vous donner **les sources**.
 
@@ -27,11 +28,11 @@ Il a été créé par l'équipe de **[Handi360.fr](https://handi360.fr/?utm_sour
 
 ## ✨ Ce que fait l'assistant
 
+- 💬 **Discuter, tout simplement** : le handicap peut isoler, et on n'a pas toujours quelqu'un à qui parler. Handi360 Bot est là **à toute heure** pour écouter, sans jugement : votre quotidien, vos difficultés, vos réussites, vos questions. Il prend des nouvelles, pose des questions, et ne parle d'aides que si vous le souhaitez.
 - 📋 **Trouver les aides auxquelles vous pouvez prétendre** : en quelques questions (pour qui, âge, situation, besoin, dossier MDPH), il liste les aides possibles, leurs conditions, et les démarches à faire en premier.
 - 🔎 **Des réponses vérifiées** sur les sites officiels, avec les liens des sources, et toujours le rappel que la décision appartient à l'organisme compétent (MDPH, CAF, CPAM, département).
 - 🤝 **Un parcours dédié aux aidants** : les aides pour la personne aidée et vos propres droits d'aidant (congé de proche aidant, allocation journalière du proche aidant AJPA, droit au répit, retraite, dédommagement par la PCH).
 - 🩺 **Un mode professionnel** pour les travailleurs sociaux, ergothérapeutes et associations : réponses précises, techniques, avec les références.
-- 💬 **Simplement discuter** : parfois, on a juste besoin de parler de son quotidien avec le handicap. L'assistant écoute, sans jugement.
 - 🏢 **Un annuaire de professionnels validés par Handi360** : matériel et aides techniques, accessibilité, santé et accompagnement, emploi et insertion, associations, loisirs...
 
 ## 📚 Les aides et droits couverts
@@ -69,6 +70,9 @@ Vous proposez du matériel adapté, des services à domicile, de l'aménagement,
 
 ## ❓ Questions fréquentes
 
+**Puis-je simplement discuter avec l'assistant ?**
+Oui, c'est l'une de ses fonctions principales. Choisissez « Simplement discuter » à l'accueil : il vous écoute, à toute heure, sans jugement, et ne vous parle d'aides que si vous le demandez. Il est aussi là pour les aidants qui ont besoin de souffler.
+
 **L'assistant Handi360 est-il gratuit ?**
 Oui, entièrement, pour les personnes concernées, les proches et les aidants.
 
@@ -95,6 +99,6 @@ L'assistant ne remplace ni un médecin ni les secours : composez le **15** (SAMU
 ---
 
 <p align="center">
-  <i>Handi360 Bot : assistant AAH, PCH, MDPH, RQTH, CMI, AEEH et droits des aidants, gratuit sur Telegram.</i><br>
+  <i>Handi360 Bot : assistant AAH, PCH, MDPH, RQTH, CMI, AEEH, droits des aidants, et compagnon de discussion, gratuit sur Telegram.</i><br>
   <a href="https://t.me/Handi360Bot?start=src_github"><b>Commencer maintenant →</b></a>
 </p>
