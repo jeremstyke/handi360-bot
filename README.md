@@ -102,3 +102,11 @@ L'assistant ne remplace ni un médecin ni les secours : composez le **15** (SAMU
   <i>Handi360 Bot : assistant AAH, PCH, MDPH, RQTH, CMI, AEEH, droits des aidants, et compagnon de discussion, gratuit sur Telegram.</i><br>
   <a href="https://t.me/Handi360Bot?start=src_github"><b>Commencer maintenant →</b></a>
 </p>
+
+---
+
+### ⚽ Also by @jeremstyke: Daily Score
+
+Guess the score of one big football match a day, climb the rankings and play leagues with your friends. Free, 9 languages, no betting.
+
+👉 [Play Daily Score](https://dailyscoreapp.com/?src=github_handi360_bot) · [Play on Telegram](https://t.me/DailyScorefootbot?start=src_github_handi360_bot)
